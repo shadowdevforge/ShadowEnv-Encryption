@@ -62,7 +62,7 @@ cargo install --path .
 
 ## 🕹️ Usage
 
-### 1. Interactive Mode (TUI)
+### 1. Interactive Mode [RECOMMENDED]
 Simply run the command without arguments to enter the interactive wizard.
 
 ```bash
