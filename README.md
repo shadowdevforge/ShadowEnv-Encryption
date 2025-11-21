@@ -1,9 +1,6 @@
-
-# ShadowEnv Encryption
-
 <div align="center">
 
-```text
+<pre>
                                                          
 ▄█████ ▄▄ ▄▄  ▄▄▄  ▄▄▄▄   ▄▄▄  ▄▄   ▄▄ ██████ ▄▄  ▄▄ ▄▄ ▄▄ 
 ▀▀▀▄▄▄ ██▄██ ██▀██ ██▀██ ██▀██ ██ ▄ ██ ██▄▄   ███▄██ ██▄██ 
@@ -13,9 +10,8 @@
 ██▄▄   ███▄██ ██▀▀▀ ██▄█▄ ▀███▀ ██▄█▀  ██   ██ ██▀██ ███▄██ 
 ██▄▄▄▄ ██ ▀██ ▀████ ██ ██   █   ██     ██   ██ ▀███▀ ██ ▀██ 
                                                             
-                                           
-    v1.0.0 :: SECURE ARCHIVAL ENV
-```
+v1.0.0
+</pre>
 
 [![Rust](https://img.shields.io/badge/Built_with-Rust-B94700.svg?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 [![Release](https://img.shields.io/badge/Release-v1.0.0-371F54.svg?style=for-the-badge)](https://github.com/shadowdevforge/ShadowEnv-Encryption/releases)
