@@ -26,12 +26,6 @@ v1.0.0
 
 ---
 
-## Screenshot
-
-<pre>
-<img width="873" height="398" alt="Screenshot From 2025-11-22 01-38-03" src="https://github.com/user-attachments/assets/ea29a23f-ce5d-4337-b46f-2ea82ba07a34" />
-</pre>
-
 ## 📔 Overview
 
 **ShadowEnv** is a high-performance CLI tool designed to secure entire directory structures into a single, encrypted artifact (`.shadow` file). Unlike standard file encryption tools, ShadowEnv handles the entire pipeline: **Archival (Tar) -> Compression (Zstd) -> Encryption (AEAD)**.
@@ -39,6 +33,12 @@ v1.0.0
 It features a hybrid interface:
 1.  **Interactive TUI**: A beautiful, Nerd-Font powered "Hacker Mode" for manual usage.
 2.  **Scriptable CLI**: Standard flags for automated backups and cron jobs.
+
+## 📷 Screenshot
+
+<pre>
+<img width="873" height="398" alt="Screenshot From 2025-11-22 01-38-03" src="https://github.com/user-attachments/assets/ea29a23f-ce5d-4337-b46f-2ea82ba07a34" />
+</pre>
 
 ## ⚡ Features
 
